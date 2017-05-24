@@ -1,9 +1,15 @@
 .banner {
   text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border: 20px;
 }
 
-body {
+.body {
   background-color: black;
+  padding: 20px;
+  margin: 20px;
+  border: 10px green dotted;
 }
 
 h1 {
@@ -24,5 +30,11 @@ h1 {
   text-align: center;
   float: right;
   width: 65%;
+  color: salmon;
+}
+
+.column {
+  width: 300px;
+  float: left;
   color: salmon;
 }
