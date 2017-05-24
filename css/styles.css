@@ -1,6 +1,5 @@
 .banner {
-  width: 700px;
-  float: center;
+  text-align: center;
 }
 
 body {
@@ -12,9 +11,18 @@ h1 {
   font-style: italic;
 }
 .tourdates {
+  width: 15%;
   color: white;
   float: left;
+  background-color: teal;
 }
 .failedembed {
   float: right;
+  width: 20%
+}
+.mainbulk {
+  text-align: center;
+  float: right;
+  width: 65%;
+  color: salmon;
 }
