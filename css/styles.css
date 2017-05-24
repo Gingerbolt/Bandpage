@@ -1,15 +1,13 @@
 .banner {
   text-align: center;
-  padding: 20px;
-  margin: 20px;
-  border: 20px;
 }
 
-.body {
+.entire {
   background-color: black;
   padding: 20px;
   margin: 20px;
   border: 10px green dotted;
+  overflow: hidden;
 }
 
 h1 {
